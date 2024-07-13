@@ -11,19 +11,19 @@
 }
 @font-face {
     font-family: 'Plain-Reg';
-    src: url(/plain-regular-webfont.ttf);
+    src: url(plain-regular-webfont.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Plain-light';
-    src: url(/plain-light-webfont.ttf);
+    src: url(plain-light-webfont.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Silkserif-Reg';
-    src: url(/silkserif-regularitalic-webfont.ttf);
+    src: url(silkserif-regularitalic-webfont.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Silkserif-light';
-    src: url(/silkserif-lightitalic-webfont.ttf);
+    src: url(silkserif-lightitalic-webfont.ttf) format('truetype');
 }
 html,body{
     height: 100%;
