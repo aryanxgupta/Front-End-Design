@@ -11,19 +11,19 @@
 }
 @font-face {
     font-family: 'Plain-Reg';
-    src: url(/obys-agency/plain-regular-webfont.ttf);
+    src: url(/plain-regular-webfont.ttf);
 }
 @font-face {
     font-family: 'Plain-light';
-    src: url(/obys-agency/plain-light-webfont.ttf);
+    src: url(/plain-light-webfont.ttf);
 }
 @font-face {
     font-family: 'Silkserif-Reg';
-    src: url(/obys-agency/silkserif-regularitalic-webfont.ttf);
+    src: url(/silkserif-regularitalic-webfont.ttf);
 }
 @font-face {
     font-family: 'Silkserif-light';
-    src: url(/obys-agency/silkserif-lightitalic-webfont.ttf);
+    src: url(/silkserif-lightitalic-webfont.ttf);
 }
 html,body{
     height: 100%;
